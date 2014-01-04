@@ -17,7 +17,7 @@ function listing_html(listing) {
 	temp = listing.substring(1);
 	path = "/articles.html#" + temp;
 	name = temp.replace('_', ' ');
-	html = "<div class='listing'><a href='"+path+"'><p>"+name+"</p></a><>/div>";
+	html = "<div class='listing'><a href='"+path+"'><p>"+name+"</p></a></div>";
 	return html;
 }
 get_article_list();
