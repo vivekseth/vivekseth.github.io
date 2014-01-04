@@ -6,7 +6,6 @@
 	function load_article(title) {
 		var file  = location.hash.replace('#', '');
 		var jqxhr = $.get(file);
-		var converter = new Showdown.converter();
 		var html = "<h1>Cannot Find Article</h1>";
 		jqxhr.done(function(data, textStatus){
 			html = marked(data);
