@@ -3,7 +3,7 @@ function get_article_list() {
 	jqxhr.done(function(data, textStatus){
 		var lines = data.split("\n");
 		var html = '';
-		for (int i=0; i<lines.length; i++) {
+		for (var i=0; i<lines.length; i++) {
 			html += listing_html(lines[i]);
 		}
 		//html should be complete now
