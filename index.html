@@ -1,15 +1,15 @@
 <div id="content"></div>
-<script type="text/javascript" src="showdown.js"></script>
+<script type="text/javascript" src="marked.js"></script>
 <script type="text/javascript" src="jquery-1.10.2.min.js"></script>
 <script type="text/javascript" src="jquery.ba-hashchange.min.js"></script>
 <script>
 	function load_article(title) {
-		var title  = location.hash.replace('#', '');
-		var jqxhr = $.get(title + ".md");
+		var file  = location.hash.replace('#', '');
+		var jqxhr = $.get(file);
 		var converter = new Showdown.converter();
 		var html = "<h1>Cannot Find Article</h1>";
 		jqxhr.done(function(data, textStatus){
-			html = converter.makeHtml(data);
+			html = marked(data);
 			$("#content").html(html);
 		});
 		jqxhr.fail(function(){
