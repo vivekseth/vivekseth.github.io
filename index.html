@@ -1,30 +1,9 @@
+<link rel="stylesheet" type="text/css" href="style.css">
+
 <div id="content"></div>
+
 <script type="text/javascript" src="marked.js"></script>
 <script type="text/javascript" src="jquery-1.10.2.min.js"></script>
 <script type="text/javascript" src="jquery.ba-hashchange.min.js"></script>
-<script>
-	function load_article(title) {
-		var file  = location.hash.replace('#', '');
-		var jqxhr = $.get(file);
-		var html = "<h1>Cannot Find Article</h1>";
-		jqxhr.done(function(data, textStatus){
-			html = marked(data);
-			$("#content").html(html);
-		});
-		jqxhr.fail(function(){
-			$("#content").html(html);
-		});
-	}
-	$(window).hashchange( function(){
-		load_article();
-	});
-	$(window).hashchange();
-</script>
-
-<style>
-	#content {
-		width: 600px;
-		font-family: "Helvetica", sans-serif;
-	}
-</style>
+<script type="text/javascript" src="load_article.js"></script>
 
