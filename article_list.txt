@@ -1,3 +1,4 @@
 ./articles/readme.md
 ./articles/sample.md
+./articles/thoughts_on_post_ideas.md
 ./readme.md

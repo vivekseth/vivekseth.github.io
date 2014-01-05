@@ -10,4 +10,6 @@ With twitter, I make a tweet as soon as I think of a good idea for one. By doing
 
 ## Going forward
 
+I have decided to take an approach to blogging, similar to the approach I use for Twitter: I will blog whenever I have a good idea for a blog post. I am usually infront of a computer, or have my phone on me, so If I happen to come up with a good idea, I will jot it down, or make a tweet about it. Later, I will be able to look through my notes and tweets and choose one to expand on. 
 
+I'm not sure what kind of success I will have with this approach, but I guess I will try it and see. 
