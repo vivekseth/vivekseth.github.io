@@ -10,7 +10,7 @@ function get_article_list() {
 		$("#content").html(html);
 	});
 	jqxhr.fail(function(){
-		$("#content").html("<H1>ERROR</H1>");
+		$("#content").html("<p>ERROR</p>");
 	});
 }
 function listing_html(listing) {
