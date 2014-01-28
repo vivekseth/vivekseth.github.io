@@ -1,4 +1,5 @@
 ./articles/readme.md
+./articles/rutgers_spring_2014.md
 ./articles/sample.md
 ./articles/thoughts_on_post_ideas.md
 ./readme.md
