@@ -1,3 +1,46 @@
+### Public Speaking (04:192:380:08)
+- Notes
+	- Grade Breakdown (900/1000 is an A)
+		- (30%) Outline & supporting material
+		- (30%) Speech delivery 
+		- (20%) Written Assignments
+		- (10%) Tests
+		- (10%) Discussion and Participation
+- Useful Links
+	- Email Prof (Alexander L. D’Jamoos): [alex@djamooslaw.com ](alex@djamooslaw.com)
+	- [Course Schedule](http://vivekseth.github.io/articles/public_speaking_schedule.txt)
+	- [Sakai Page](https://sakai.rutgers.edu/portal/site/f0f1e11d-ae90-42eb-9e45-663fe12a5ca2/page/49c046b5-7ade-44e7-af7a-54266c9fa44a)
+	- [Assignments](https://sakai.rutgers.edu/portal/site/f0f1e11d-ae90-42eb-9e45-663fe12a5ca2/page/a94b1dde-2bab-4704-b817-55459b910a45)
+	- [Syllabus](https://sakai.rutgers.edu/access/content/attachment/f0f1e11d-ae90-42eb-9e45-663fe12a5ca2/Syllabus/f9d18e89-cd4e-4088-abc7-b5e416acbf29/192.380.08.D_Jamoos-Spring%202014.pdf)
+- Textbooks
+	- Speak up: An illustrated guide to public speaking
+		- 2nd edition
+		- Fraleigh, D. M. & Tuman, J.S.
+		- Boston: Bedford / St. Martins. 
+	- Supplementary Readings on sakai
+
+
+### Systems Programming (198:214:01)
+- Notes
+	- Grading
+		- Midterm: 20 %
+		- Final: 30 %
+		- Project: 50%
+	- Partners allowed
+- Useful Links
+	- Email Prof (Brian Russell): [MORBIUS@CS.RUTGERS.EDU](MORBIUS@CS.RUTGERS.EDU)
+	- Email TA (???): [???](???)
+	- [Teacher Page](http://paul.rutgers.edu/~morbius/cs214/)
+	- [Sakai Page](https://sakai.rutgers.edu/portal/site/8860d59c-04ca-4e6c-bbc9-eff7884092a6)
+	- [Assignments](https://sakai.rutgers.edu/portal/site/8860d59c-04ca-4e6c-bbc9-eff7884092a6/page/f6aadfb4-15fb-422f-83fe-ec6dcffcd70f)
+	- [Syllabus (on teacher page)](http://paul.rutgers.edu/~morbius/cs214/)
+- Textbooks
+	- Computer Systems - A Programmer's Perspective Second Edition (Required)
+		- Randal Bryant and David O'Halloran
+	- [C Programming (Free)](http://en.wikibooks.org/wiki/C_Programming)
+	- [The C Book](http://publications.gbdirect.co.uk/c_book/)
+	- [C Reference](http://paul.rutgers.edu/~morbius/cs214/creference.pdf)
+
 ### Principals of Prog Languages (198:314:01)
 - Notes
 	- Hw questions must be in sakai forum
@@ -23,57 +66,6 @@
 		- Publisher: Addison-Wesley,
 		- ISBN10: 0321486811, ISBN13: 9780321486813 
 		- (Old edition is fine too)
-
-
-
-### Systems Programming (198:214:01)
-- Notes
-	- Grading
-		- Midterm: 20 %
-		- Final: 30 %
-		- Project: 50%
-	- Partners allowed
-- Useful Links
-	- Email Prof (Brian Russell): [MORBIUS@CS.RUTGERS.EDU](MORBIUS@CS.RUTGERS.EDU)
-	- Email TA (???): [???](???)
-	- [Teacher Page](http://paul.rutgers.edu/~morbius/cs214/)
-	- [Sakai Page](https://sakai.rutgers.edu/portal/site/8860d59c-04ca-4e6c-bbc9-eff7884092a6)
-	- [Assignments](https://sakai.rutgers.edu/portal/site/8860d59c-04ca-4e6c-bbc9-eff7884092a6/page/f6aadfb4-15fb-422f-83fe-ec6dcffcd70f)
-	- [Syllabus (on teacher page)](http://paul.rutgers.edu/~morbius/cs214/)
-- Textbooks
-	- Computer Systems - A Programmer's Perspective Second Edition (Required)
-		- Randal Bryant and David O'Halloran
-	- [C Programming (Free)](http://en.wikibooks.org/wiki/C_Programming)
-	- [The C Book](http://publications.gbdirect.co.uk/c_book/)
-	- [C Reference](http://paul.rutgers.edu/~morbius/cs214/creference.pdf)
-
-
-
-
-
-
-### Public Speaking (04:192:380:08)
-- Notes
-	- ??
-- Useful Links
-	- Email Prof (Alexander L. D’Jamoos): [alex@djamooslaw.com ](alex@djamooslaw.com)
-	- [Sakai Page](https://sakai.rutgers.edu/portal/site/f0f1e11d-ae90-42eb-9e45-663fe12a5ca2/page/49c046b5-7ade-44e7-af7a-54266c9fa44a)
-	- [Assignments](https://sakai.rutgers.edu/portal/site/f0f1e11d-ae90-42eb-9e45-663fe12a5ca2/page/a94b1dde-2bab-4704-b817-55459b910a45)
-	- [Syllabus](https://sakai.rutgers.edu/access/content/attachment/f0f1e11d-ae90-42eb-9e45-663fe12a5ca2/Syllabus/f9d18e89-cd4e-4088-abc7-b5e416acbf29/192.380.08.D_Jamoos-Spring%202014.pdf)
-- Textbooks
-	- Speak up: An illustrated guide to public speaking
-		- 2nd edition
-		- Fraleigh, D. M. & Tuman, J.S.
-		- Boston: Bedford / St. Martins. 
-	- Supplementary Readings on sakai
-
-
-
-
-
-
-
-
 
 ### Discrete Structures II (198:206:01)
 - Notes
