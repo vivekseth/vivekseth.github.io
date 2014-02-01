@@ -47,15 +47,33 @@
 	- [The C Book](http://publications.gbdirect.co.uk/c_book/)
 	- [C Reference](http://paul.rutgers.edu/~morbius/cs214/creference.pdf)
 
-### Hindu Philosophy
+
+
+
+
+
+### Public Speaking (04:192:380:08)
 - Notes
-	- ???
+	- ??
 - Useful Links
-	- Email Prof (Edwin Bryant): [EDBRYANT@RCI.RUTGERS.EDU)
-	- [Teacher Page](http://www.rci.rutgers.edu/~edbryant/)
-	- [Sakai Page](https://sakai.rutgers.edu/portal/site/f7b88ece-aa32-44de-a1ed-182fecb9bde1)
+	- Email Prof (Alexander L. D’Jamoos): [alex@djamooslaw.com ](alex@djamooslaw.com)
+	- [Sakai Page](https://sakai.rutgers.edu/portal/site/f0f1e11d-ae90-42eb-9e45-663fe12a5ca2/page/49c046b5-7ade-44e7-af7a-54266c9fa44a)
+	- [Assignments](https://sakai.rutgers.edu/portal/site/f0f1e11d-ae90-42eb-9e45-663fe12a5ca2/page/a94b1dde-2bab-4704-b817-55459b910a45)
+	- [Syllabus](https://sakai.rutgers.edu/access/content/attachment/f0f1e11d-ae90-42eb-9e45-663fe12a5ca2/Syllabus/f9d18e89-cd4e-4088-abc7-b5e416acbf29/192.380.08.D_Jamoos-Spring%202014.pdf)
 - Textbooks
-	- ???
+	- Speak up: An illustrated guide to public speaking
+		- 2nd edition
+		- Fraleigh, D. M. & Tuman, J.S.
+		- Boston: Bedford / St. Martins. 
+	- Supplementary Readings on sakai
+
+
+
+
+
+
+
+
 
 ### Discrete Structures II (198:206:01)
 - Notes
@@ -63,7 +81,7 @@
 	- TA Office Hours
 		- Hill 206, 3:45 - 4:45
 - Useful Links
-	- Email Prof (Brian Russell): [MORBIUS@CS.RUTGERS.EDU](MORBIUS@CS.RUTGERS.EDU)
+	- Email Prof (William Steiger): [steiger@cs.rutgers.edu](steiger@cs.rutgers.edu)
 	- Email TA (Mudassir Shabbir): [mudassir@cs.rutgers.edu](mudassir@cs.rutgers.edu)
 	- [Teacher Page](http://www.cs.rutgers.edu/~steiger/206.html)
 	- [Announcements](http://www.cs.rutgers.edu/~steiger/announce206.html)
