@@ -15,7 +15,7 @@
 	- [Syllabus](http://www.cs.rutgers.edu/~steiger/syl206.pdf)
 - Textbooks
 	- None Required!!
-	- A First Course in Probability (Recommended)
+	- [A First Course in Probability (Recommended)](/resources/AFCiP_Ross_8e.pdf)
 		- Author: Sheldon Ross
 		- Publisher: Prentice Hall
 		- Edition: 9th edition (earlier editions are quite similar)
@@ -23,6 +23,8 @@
 		- To be handed out for all topics
 	- Discrete Probability
 		- Authors: R. A. Gangolli and D. Ylvisaker, Harcourt, Brace, Jovanovich
-	- An Introduction to Probability Theory and Its Applications
+	- [An Introduction to Probability Theory and Its Applications](/resources/AItPTaIA_Feller_3e.pdf)
 		- Authors: W. Feller, John Wiley
 		- Edition: Vol 1, 3rd Edition
+
+

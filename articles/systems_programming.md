@@ -13,7 +13,7 @@
 	- [Assignments](https://sakai.rutgers.edu/portal/site/8860d59c-04ca-4e6c-bbc9-eff7884092a6/page/f6aadfb4-15fb-422f-83fe-ec6dcffcd70f)
 	- [Syllabus (on teacher page)](http://paul.rutgers.edu/~morbius/cs214/)
 - Textbooks
-	- [Computer Systems - A Programmer's Perspective Second Edition (Required)](/articles/CA_Bryant_2e.pdf)
+	- [Computer Systems - A Programmer's Perspective Second Edition (Required)](/resources/CA_Bryant_2e.pdf)
 		- Randal Bryant and David O'Halloran
 	- [C Programming (Free)](http://en.wikibooks.org/wiki/C_Programming)
 	- [The C Book](http://publications.gbdirect.co.uk/c_book/)
