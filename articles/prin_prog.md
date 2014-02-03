@@ -1,0 +1,25 @@
+### Principals of Prog Languages (198:314:01)
+- Notes
+	- Hw questions must be in sakai forum
+	- Other ques, start email subject with cs314
+	- Readings for lecutes are on prof website
+	- Hw is given *weekly* and is due friday before class (on prof website)
+	- TA Office Hours
+		- Office: CoRE 334 
+		- Office hours: Tuesdays, 9:00 - 11:00am 
+- Useful Links
+	- Email Prof (Ulrich (Uli) Kremer): [uli@cs.rutgers.edu](uli@cs.rutgers.edu)
+	- Email TA (Hans Christian Woithe): [hcwoithe@cs.rutgers.edu](hcwoithe@cs.rutgers.edu)
+	- [Teacher Page](http://www.cs.rutgers.edu/courses/314/classes/spring_2014_kremer/)
+	- [Sakai Page](https://sakai.rutgers.edu/portal/site/db223b0d-e21c-4f81-888a-7b33b645eaf4)
+	- [Syllabus](http://www.cs.rutgers.edu/courses/314/classes/spring_2014_kremer/lectures/)
+- Textbooks
+	- [Programming Language Pragmatics, 3rd Edition (Required)](/articles/PLP_Scott_3e.pdf)
+		- Michael L. Scott
+		- Publisher: Morgan Kaufmann (Elsevier), 
+		- ISBN: 978-0-12-374514-9 
+	- [Compilers: Principles, Techniques, and Tools 2/E (Optional)](/articles/CPTaT_ALSU_2e.pdf)
+		- Aho, Lam, Sethi, Ullman (ALSU)
+		- Publisher: Addison-Wesley,
+		- ISBN10: 0321486811, ISBN13: 9780321486813 
+		- (Old edition is fine too)

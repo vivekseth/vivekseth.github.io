@@ -1,0 +1,20 @@
+### Public Speaking (04:192:380:08)
+- Notes
+	- Grade Breakdown (900/1000 is an A)
+		- (30%) Outline & supporting material
+		- (30%) Speech delivery 
+		- (20%) Written Assignments
+		- (10%) Tests
+		- (10%) Discussion and Participation
+- Useful Links
+	- Email Prof (Alexander L. D’Jamoos): [alex@djamooslaw.com ](alex@djamooslaw.com)
+	- [Course Schedule](http://vivekseth.github.io/articles/public_speaking_schedule.txt)
+	- [Sakai Page](https://sakai.rutgers.edu/portal/site/f0f1e11d-ae90-42eb-9e45-663fe12a5ca2/page/49c046b5-7ade-44e7-af7a-54266c9fa44a)
+	- [Assignments](https://sakai.rutgers.edu/portal/site/f0f1e11d-ae90-42eb-9e45-663fe12a5ca2/page/a94b1dde-2bab-4704-b817-55459b910a45)
+	- [Syllabus](https://sakai.rutgers.edu/access/content/attachment/f0f1e11d-ae90-42eb-9e45-663fe12a5ca2/Syllabus/f9d18e89-cd4e-4088-abc7-b5e416acbf29/192.380.08.D_Jamoos-Spring%202014.pdf)
+- Textbooks
+	- Speak up: An illustrated guide to public speaking
+		- 2nd edition
+		- Fraleigh, D. M. & Tuman, J.S.
+		- Boston: Bedford / St. Martins. 
+	- Supplementary Readings on sakai

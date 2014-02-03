@@ -1,0 +1,20 @@
+### Systems Programming (198:214:01)
+- Notes
+	- Grading
+		- Midterm: 20 %
+		- Final: 30 %
+		- Project: 50%
+	- Partners allowed
+- Useful Links
+	- Email Prof (Brian Russell): [MORBIUS@CS.RUTGERS.EDU](MORBIUS@CS.RUTGERS.EDU)
+	- Email TA (???): [???](???)
+	- [Teacher Page](http://paul.rutgers.edu/~morbius/cs214/)
+	- [Sakai Page](https://sakai.rutgers.edu/portal/site/8860d59c-04ca-4e6c-bbc9-eff7884092a6)
+	- [Assignments](https://sakai.rutgers.edu/portal/site/8860d59c-04ca-4e6c-bbc9-eff7884092a6/page/f6aadfb4-15fb-422f-83fe-ec6dcffcd70f)
+	- [Syllabus (on teacher page)](http://paul.rutgers.edu/~morbius/cs214/)
+- Textbooks
+	- [Computer Systems - A Programmer's Perspective Second Edition (Required)](/articles/CA_Bryant_2e.pdf)
+		- Randal Bryant and David O'Halloran
+	- [C Programming (Free)](http://en.wikibooks.org/wiki/C_Programming)
+	- [The C Book](http://publications.gbdirect.co.uk/c_book/)
+	- [C Reference](http://paul.rutgers.edu/~morbius/cs214/creference.pdf)

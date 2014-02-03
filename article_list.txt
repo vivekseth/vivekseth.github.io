@@ -1,5 +1,9 @@
+./articles/disc_struct_2.md
+./articles/prin_prog.md
+./articles/public_speaking.md
 ./articles/readme.md
 ./articles/sample.md
 ./articles/spring2014.md
+./articles/systems_programming.md
 ./articles/thoughts_on_post_ideas.md
 ./readme.md
