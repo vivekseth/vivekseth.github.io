@@ -35,7 +35,7 @@
 	- [Assignments](https://sakai.rutgers.edu/portal/site/8860d59c-04ca-4e6c-bbc9-eff7884092a6/page/f6aadfb4-15fb-422f-83fe-ec6dcffcd70f)
 	- [Syllabus (on teacher page)](http://paul.rutgers.edu/~morbius/cs214/)
 - Textbooks
-	- [Computer Systems - A Programmer's Perspective Second Edition (Required)](/CA_Bryant_2e.pdf)
+	- [Computer Systems - A Programmer's Perspective Second Edition (Required)](/articles/CA_Bryant_2e.pdf)
 		- Randal Bryant and David O'Halloran
 	- [C Programming (Free)](http://en.wikibooks.org/wiki/C_Programming)
 	- [The C Book](http://publications.gbdirect.co.uk/c_book/)
@@ -57,11 +57,11 @@
 	- [Sakai Page](https://sakai.rutgers.edu/portal/site/db223b0d-e21c-4f81-888a-7b33b645eaf4)
 	- [Syllabus](http://www.cs.rutgers.edu/courses/314/classes/spring_2014_kremer/lectures/)
 - Textbooks
-	- [Programming Language Pragmatics, 3rd Edition (Required)](/PLP_Scott_3e.pdf)
+	- [Programming Language Pragmatics, 3rd Edition (Required)](/articles/PLP_Scott_3e.pdf)
 		- Michael L. Scott
 		- Publisher: Morgan Kaufmann (Elsevier), 
 		- ISBN: 978-0-12-374514-9 
-	- [Compilers: Principles, Techniques, and Tools 2/E (Optional)](/CPTaT_ALSU_2e.pdf)
+	- [Compilers: Principles, Techniques, and Tools 2/E (Optional)](/articles/CPTaT_ALSU_2e.pdf)
 		- Aho, Lam, Sethi, Ullman (ALSU)
 		- Publisher: Addison-Wesley,
 		- ISBN10: 0321486811, ISBN13: 9780321486813 
