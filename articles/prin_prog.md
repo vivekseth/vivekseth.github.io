@@ -12,6 +12,7 @@
 	- Email TA (Hans Christian Woithe): [hcwoithe@cs.rutgers.edu](hcwoithe@cs.rutgers.edu)
 	- [Teacher Page](http://www.cs.rutgers.edu/courses/314/classes/spring_2014_kremer/)
 	- [Homework](http://www.cs.rutgers.edu/courses/314/classes/spring_2014_kremer/homeworks/)
+	- [Lecture Notes](http://www.cs.rutgers.edu/courses/314/classes/spring_2014_kremer/lectures/)
 	- [Sakai Page](https://sakai.rutgers.edu/portal/site/db223b0d-e21c-4f81-888a-7b33b645eaf4)
 	- [Syllabus](http://www.cs.rutgers.edu/courses/314/classes/spring_2014_kremer/lectures/)
 - Textbooks
